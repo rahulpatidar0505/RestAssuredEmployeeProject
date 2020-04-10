@@ -1,0 +1,2 @@
+cd E:\Appium\Training\restassuredemployeeproject-master\RestassuredAPITesting_Employee_Project
+mvn clean install
